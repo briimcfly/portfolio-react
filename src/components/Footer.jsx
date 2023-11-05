@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
     return (
-        <footer className="bg-light text-center text-lg-start fixed-bottom">
+        <footer className="bg-dark text-center text-white text-lg-start fixed-bottom">
             <div className="container p-4">
                 <div className="row">
                     <div className="col-lg-6 col-md-6 mb-4 mb-md-0">
@@ -15,15 +15,15 @@ function Footer() {
                     <div className="col-lg-6 col-md-6 mb-4 mb-md-0">
                         <h5 className="text-uppercase">Where to Find me</h5>
                         <ul className="list-unstyled mb-0">
-                            <li><a href="#!" className="text-dark">Check out my Github</a></li>
-                            <li><a href="#!" className="text-dark">Follow me on Dribble</a></li>
-                            <li><a href="#!" className="text-dark">Follow me on LinkedIn</a></li>
+                            <li><a href="https://github.com/briimcfly" className="text-primary">Check out my Github</a></li>
+                            <li><a href="https://dribbble.com/omgbgb" className="text-primary">Follow me on Dribble</a></li>
+                            <li><a href="https://www.linkedin.com/in/briimcfly/" className="text-primary">Connect with me on LinkedIn</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
 
-            <div className="text-center p-3 bg-secondary">
+            <div className="text-center p-3 bg-dark">
                 © 2023 Bryan Bickel
             </div>
         </footer>
