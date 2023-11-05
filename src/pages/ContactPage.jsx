@@ -1,7 +1,11 @@
+import Header from '../components/Header'
+
+const title = "Contact Me"
+
 export default function ContactPage() {
   return (
-    <div id="error-page">
-      <h1>Contacts!</h1>
+    <div className = "p-5">
+      <Header title = {title} />
     </div>
   );
 }

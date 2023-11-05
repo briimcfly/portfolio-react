@@ -1,8 +1,11 @@
+import Header from '../components/Header'
+
 export default function ProjectsPage() {
+const title = "Projects"
 
   return (
     <div id="error-page">
-      <h1>Projects!</h1>
+      <Header title={title} />
     </div>
   );
 }

@@ -9,6 +9,7 @@ import ErrorPage from './pages/ErrorPage.jsx'
 import ProjectsPage from './pages/ProjectsPage.jsx'
 import ContactPage from './pages/ContactPage.jsx'
 import AboutPage from './pages/AboutPage.jsx'
+
 //Styling Imports 
 import './styles/index.css'
 import './styles/custom.scss'
