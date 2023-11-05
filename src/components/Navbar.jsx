@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 function NavBar(){
     return(
         <>
@@ -9,13 +10,13 @@ function NavBar(){
           <div className="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link active text-white" aria-current="page" href="#">About Me</a>
+                <Link className="nav-link active text-white" aria-current="page" to="/">About Me</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-white" href="#">My Projects</a>
+                <Link className="nav-link text-white" to="/projects">My Projects</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-white" href="#">Contact Me</a>
+                <Link className="nav-link text-white" to="/contact">Contact Me</Link>
               </li>
             </ul>
           </div>
