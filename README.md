@@ -39,6 +39,17 @@ In the realm of web development, we're more than just coders – we're a thrivin
 
 What sets this portfolio apart? It's constructed using React, a modern JavaScript library, exemplifying my proficiency with the latest technologies in the web development sphere. As we embrace modernity and innovation, having a portfolio powered by React not only demonstrates my skill set but also my commitment to staying updated and relevant in the rapidly evolving tech world.
 
-To enhance accessibility and ensure seamless user experience, this portfolio is also deployed on Netlify, a powerful cloud platform. Feel free to explore, leave feedback, or reach out for collaborations.
+To enhance accessibility and ensure seamless user experience, this portfolio is also deployed on Netlify, a powerful cloud platform. Feel free to explore, leave feedback, or reach out for collaborations. A deployed version can be viewed [here](https://meek-gaufre-fa3528.netlify.app/)
 
 Happy coding! 🚀
+
+![CleanShot 2023-11-05 at 21 23 50](https://github.com/briimcfly/portfolio-react/assets/7972240/fceaf3bf-d560-4f52-82ac-286907cc0646)
+
+## Technologies Used
+* React
+* Vite
+* Boostrap
+
+## Reflection 
+This project has allowed me to apply the core skills I have recently learned and put them into practice. During development, I had the opportunity to deepen my understanding React. Additionally, I developed a deeper appreciation for for the importance code commenting, and the development principal DRY. (Don't repeat yourself).
+
