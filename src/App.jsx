@@ -9,7 +9,10 @@ function App() {
   return (
     <>
   <NavBar />
+  <div id="main">
   <Outlet />
+  </div>
+
   <Footer />
     </>
   )

@@ -15,10 +15,10 @@ export default function AboutPage() {
         </p>
         {/* Icon Group */}
         <aside>
-                <a className = "p-2" href="https://dribbble.com/omgbgb" target="_blank"><i className="fa-brands fa-dribbble fa-2xl"></i></a>
-                <a className = "p-2" href="https://www.linkedin.com/in/briimcfly/" target="_blank"><i className="fa-brands fa-linkedin fa-2xl"></i></a>
-                <a className = "p-2" href="https://github.com/briimcfly" target="_blank"><i className="fa-brands fa-github fa-2xl"></i></a>
-                <a className = "p-2" href="mailto: bickel@hey.com" target="_blank"><i class="fa-solid fa-circle-envelope fa-2xl"></i></a>
+                <a className = "p-2 text-primary" href="https://dribbble.com/omgbgb" target="_blank"><i className="fa-brands fa-dribbble fa-2xl"></i></a>
+                <a className = "p-2 text-primary" href="https://www.linkedin.com/in/briimcfly/" target="_blank"><i className="fa-brands fa-linkedin fa-2xl"></i></a>
+                <a className = "p-2 text-primary" href="https://github.com/briimcfly" target="_blank"><i className="fa-brands fa-github fa-2xl"></i></a>
+                <a className = "p-2 text-primary" href="mailto: bickel@hey.com" target="_blank"><i class="fa-solid fa-circle-envelope fa-2xl"></i></a>
             </aside>
       </div>
     </div>
