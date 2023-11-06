@@ -6,7 +6,7 @@ export default function ContactPage() {
   return (
     <div className="p-5">
       <Header title={title} />
-      <form name="contact" method="POST" netlify>
+      <form name="contact" method="POST" data-netlify="true" action="/">
         <input type="hidden" name="form-name" value="contact" />
         <div className="mb-3">
           <label htmlFor="name" className="form-label">Name</label>
